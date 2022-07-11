@@ -20,7 +20,7 @@ const Contact = () => {
           <input
             {...register("name", { required: true })}
             type="text"
-            placeholder="Name *"
+            placeholder="Nom *"
           />
           {errors.name && errors.name.type === "required" && (
             <span className="invalid-feedback">Name is required</span>
@@ -52,7 +52,7 @@ const Contact = () => {
           <div className="right">
             <input
               {...register("subject", { required: true })}
-              placeholder="Subject *"
+              placeholder="Object *"
             />
             {errors.subject && (
               <span className="invalid-feedback">Subject is required.</span>
@@ -75,8 +75,8 @@ const Contact = () => {
         <div className="beny_tm_button">
           <button type="submit" className="color">
             <span className="wrapper">
-              <span className="first">Submit</span>
-              <span className="second">Submit</span>
+              <span className="first">Soumettre</span>
+              <span className="second">Soumettre</span>
             </span>
           </button>
         </div>

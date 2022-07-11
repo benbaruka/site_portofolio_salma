@@ -16,7 +16,7 @@ const Footer = () => {
             </a>
             . All rights reserved.
           </p>
-          <img src="/public/img/footer/dark.png" />
+          <img src="img/footer/img.png" />
         </div>
       </div>
     </>

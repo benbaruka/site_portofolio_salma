@@ -32,14 +32,14 @@ export default function SimpleSlider() {
     },
     {
       img: "2",
-      desc: `This is outstanding work. Everything I needed to do has been done by the makers. I really like this template and more importantly my clients are blown away by it.`,
-      name: "Fabian Gattuzo",
-      designation: "Photographer",
+      desc: `Salut, je suis Melia B et je suis designer et développeur  voir influenceur qui rêve de rendre le monde meilleur grâce aux produits. Je suis également très actif pour les clients internationaux et Grace à salma mes produits sont visibles.`,
+      name: "Melia B",
+      designation: "Influenceur",
     },
     {
       img: "3",
-      desc: `These people really know what they are doing! Great customer support availability and supperb kindness. I am very happy that I've purchased this liscense!!!`,
-      name: "Alizee Bonita",
+      desc: `Ces gens savent vraiment ce qu'ils font ! Grande disponibilité du support client et gentillesse supperb. Je suis très heureux d'avoir acheté cette licence !!!`,
+      name: "Navid Scav",
       designation: "App Developer",
     },
   ];

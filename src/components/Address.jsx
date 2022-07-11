@@ -5,14 +5,14 @@ const Address = () => {
     <ul>
       <li>
         <img className="svg" src="img/svg/phone.svg" alt="" />
-        <a href="Tel: 7614123224">+44 1632 967704</a>
+        <a href="Tel: 7614123224">+243 999504845</a>
       </li>
       {/* End li */}
 
       <li>
         <img className="svg" src="img/svg/mail.svg" alt="" />
         <span>
-          <a href="mailto:ib-themes21@gmail.com">your@gmail.com</a>
+          <a href="mailto:ib-themes21@gmail.com">barukab68@gmail.com</a>
         </span>
       </li>
       {/* End li */}
@@ -20,8 +20,8 @@ const Address = () => {
       <li>
         <img className="svg" src="img/svg/map.svg" alt="" />
         <span>
-          245 King Street, Touterie Victoria
-          <br /> 8520 Australia
+          Goma ville
+          <br /> RDCongo
         </span>
       </li>
     </ul>

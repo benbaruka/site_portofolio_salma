@@ -42,7 +42,7 @@ const Blog = () => {
                   April 07,2021 <a href="#">Travel Landing</a>
                 </span>
                 <h3 className="title" onClick={toggleModalOne}>
-                  Dostie Memorie
+                  Modeliste 
                 </h3>
               </div>
               {/* End details */}

@@ -136,7 +136,7 @@ const HomeLightAnimation = () => {
             >
               <div className="beny_tm_title_holder">
                 <span>Contact</span>
-                <h2>Let's discuss your project</h2>
+                <h2>Discutons de votre projet</h2>
               </div>
               <div className="short_list">
                 <Address />
@@ -152,9 +152,9 @@ const HomeLightAnimation = () => {
             >
               <div className="title">
                 <p>
-                  I'm always open to discussing product
+                Je suis toujours ouvert à discuter du produit
                   <br />
-                  <span>design work or partnerships.</span>
+                  <span>travaux de conception ou partenariats.</span>
                 </p>
               </div>
               <div className="fields">
