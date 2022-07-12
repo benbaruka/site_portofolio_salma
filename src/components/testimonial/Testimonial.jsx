@@ -42,6 +42,7 @@ export default function SimpleSlider() {
       name: "Navid Scav",
       designation: "App Developer",
     },
+   
   ];
 
   return (

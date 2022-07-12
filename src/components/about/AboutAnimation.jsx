@@ -1,5 +1,6 @@
 import React from "react";
-import Skills from "../skills/SkillsAnimation";
+// import Skills from "../skills/SkillsAnimation"
+
 
 const AboutAnimation = () => {
   return (
@@ -96,7 +97,7 @@ const AboutAnimation = () => {
           </div>
         </div>
       </div>
-      {/* <Skills /> */}
+       {/* <Skills />  */}
     </>
   );
 };
