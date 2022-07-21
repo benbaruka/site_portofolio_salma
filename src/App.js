@@ -11,6 +11,7 @@ const App = () => {
   }, []);
   return (
     <div className="beny_tm_all_wrap">
+      
       <AnimatedCursor
         innerSize={8}
         outerSize={44}

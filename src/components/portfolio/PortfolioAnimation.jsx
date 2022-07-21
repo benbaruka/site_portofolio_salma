@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import ModalVideo from "react-modal-video";
 import SimpleReactLightbox from "simple-react-lightbox";
 import { SRLWrapper } from "simple-react-lightbox";
 
@@ -40,7 +39,7 @@ const Portfolio = () => {
                 <span>instagram Shoot</span>
               </a>
               <img
-                src="img/portfolio/IMG_5380.jpg"
+                src="img/portfolio/11.jpg"
                 alt="instagram Shoot"
                 onClick={() => setOpen(true)}
               />
@@ -54,17 +53,17 @@ const Portfolio = () => {
           >
             <div className="list_inner video">
               <a
-                href="https://www.instagram.com/p/CfZZ-3OrlkS/?igshid=YmMyMTA2M2Y="
+                href="https://web.facebook.com/salma.baruka.5"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="title"
               >
-                <h3>Art </h3>
-                <span>Art Shoot</span>
+                <h3> Art </h3>
+                <span>Facebook Shoot</span>
               </a>
               <img
                 src="img/portfolio/11.jpg"
-                alt="Vimeo Shoot"
+                alt=""
                 onClick={() => setOpen2(true)}
               />
             </div>
@@ -84,12 +83,12 @@ const Portfolio = () => {
                   rel="noopener noreferrer"
                   href="https://dribbble.com/shots/16529339-Beny-Personal-Portfolio-React-Template"
                 >
-                  <h3>Ave Simone</h3>
-                  <span>Dribbble Shoot</span>
+                  <h3>Pertinent</h3>
+                  <span>Twitter Shoot</span>
                 </a>
 
-                <a href="img/portfolio/IMG_5380.jpg">
-                  <img src="img/portfolio/IMG_5380.jpg" alt="Dribbble Shoot" />
+                <a href="https://www.instagram.com/p/CfZZ-3OrlkS/?igshid=YmMyMTA2M2Y=">
+                  <img src="img/portfolio/11.jpg" alt="" />
                 </a>
               </div>
             </li>
@@ -105,14 +104,14 @@ const Portfolio = () => {
                   className="title"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://dribbble.com/shots/16530034-Tokyo-Personal-Portfolio-React-Template-RTL"
+                  href="https://web.facebook.com/salma.baruka.5"
                 >
-                  <h3>Kelly Smith</h3>
-                  <span>Dribbble Shoot</span>
+                  <h3> Album </h3>
+                  <span> Facebook </span>
                 </a>
 
-                <a href="img/portfolio/IMG_5380.jpg">
-                  <img src="img/portfolio/IMG_5350.jpg" alt="Dribbble Shoot" />
+                <a href="img/portfolio/1.jpg">
+                  <img src="img/portfolio/1.jpg" alt="" />
                 </a>
               </div>
             </li>
@@ -128,14 +127,14 @@ const Portfolio = () => {
                   className="title"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://dribbble.com/shots/16529282-Shane-Personal-Portfolio-React-Template"
+                  href="https://web.facebook.com/salma.baruka.5"
                 >
-                  <h3>Duru Sweet</h3>
-                  <span>Dribbble Shoot</span>
+                  <h3> Album </h3>
+                  <span> Facebook </span>
                 </a>
 
-                <a href="img/portfolio/IMG_5380.jpg">
-                  <img src="img/portfolio/IMG_5350.jpg" alt="Dribbble Shoot" />
+                <a href="img/portfolio/1.jpg">
+                  <img src="img/portfolio/1.jpg" alt="" />
                 </a>
               </div>
             </li>
@@ -151,14 +150,14 @@ const Portfolio = () => {
                   className="title"
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://www.facebook.com/ibthemes"
+                  href="https://web.facebook.com/salma.baruka.5"
                 >
-                  <h3>Lisa Kotlins</h3>
-                  <span>Facebook Shoot</span>
+                  <h3> Album </h3>
+                  <span> Facebook </span>
                 </a>
 
-                <a href="img/portfolio/IMG_5380.jpg">
-                  <img src="img/portfolio/IMG_5350.jpg" alt="Facebook Shoot" />
+                <a href="img/portfolio/1.jpg">
+                  <img src="img/portfolio/1.jpg" alt="" />
                 </a>
               </div>
             </li>

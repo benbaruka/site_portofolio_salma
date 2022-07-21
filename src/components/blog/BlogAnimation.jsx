@@ -40,10 +40,10 @@ const BlogAnimation = () => {
 
               <div className="details">
                 <span>
-                  April 07,2021 <a href="#">Travel Landing</a>
+                  07 avril 2021 <a href="#">Prise de photos artistique</a>
                 </span>
                 <h3 className="title" onClick={toggleModalOne}>
-                  Dostie Memorie
+                  Espace Classic
                 </h3>
               </div>
               {/* End details */}
@@ -181,10 +181,10 @@ const BlogAnimation = () => {
 
               <div className="details">
                 <span>
-                  April 07,2021 <a href="#">Inspiration</a>
+                  09 janv 2022 <a href="#">Inspiration</a>
                 </span>
                 <h3 className="title" onClick={toggleModalTwo}>
-                  Chul Urina
+                  In Uganda's mall
                 </h3>
               </div>
               {/* End details */}
@@ -316,10 +316,10 @@ const BlogAnimation = () => {
 
               <div className="details">
                 <span>
-                  April 07,2021 <a href="#">Inspiration</a>
+                  02 mars 2022 <a href="#">Inspiration</a>
                 </span>
                 <h3 className="title" onClick={toggleModalThree}>
-                  Chul Urina
+                  La prise de photo de style vestimentaire
                 </h3>
               </div>
               {/* End details */}

@@ -30,10 +30,10 @@ const HomeLightAnimation = () => {
 
       <Header />
       {/* End Header */}
-
+      
+      
       <Slider />
       {/* End Slider */}
-
       <div className="beny_tm_about" id="about">
         <div className="container">
           <div className="beny_tm_title_holder">
@@ -73,10 +73,9 @@ const HomeLightAnimation = () => {
         <div className="container">
           <div className="beny_tm_title_holder">
             <span>Portfolio</span>
-            <h2>My Portfolio</h2>
+            <h2>Mon Portfolio</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet,
-              egestas. Id fermentum nullam ipsum massa.
+            Il suffit de nous contacte, et commencez à promouvoir vos produits partout dans le monde en un seul clic et immédiatement.
             </p>
           </div>
           {/* End beny_tm_title */}
@@ -113,10 +112,9 @@ const HomeLightAnimation = () => {
         <div className="container">
           <div className="beny_tm_title_holder">
             <span>Blogs</span>
-            <h2>Recent News</h2>
+            <h2> Récentes Nouvelles </h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet,
-              egestas. Id fermentum nullam ipsum massa.
+            Nous sommes une société ouverte et dynamique offrant un centre communautaire pour tous les artistes et le public amateur d'art. Notre belle galerie est située au centre et facilement accessible.
             </p>
           </div>
           {/* End beny_tm_title */}
@@ -157,9 +155,7 @@ const HomeLightAnimation = () => {
                   <span>travaux de conception ou partenariats.</span>
                 </p>
               </div>
-              <div className="fields">
-                <Contact />
-              </div>
+              
             </div>
           </div>
         </div>

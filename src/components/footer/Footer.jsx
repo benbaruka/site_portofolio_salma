@@ -18,6 +18,7 @@ const Footer = () => {
           </p>
           <img src="img/footer/img.png" />
         </div>
+        <h6 style={{"background":"transparent","opacity":"90%","margin":"0,auto","color":"white"}}> Ce site est en cours de construction </h6>
       </div>
     </>
   );

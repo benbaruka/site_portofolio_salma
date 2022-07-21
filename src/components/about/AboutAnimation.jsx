@@ -33,10 +33,7 @@ const AboutAnimation = () => {
               basée en <span className="theme-color"> RDC</span>
             </h5>
             <p>
-              I design and develop services for customers specializing creating
-              stylish, modern websites, web services and online stores. My
-              passion is to design digital user experiences through meaningful
-              interactions. Check out my Portfolio
+            Nous sommes une société ouverte et dynamique offrant un centre communautaire pour tous les artistes et le public amateur d'art. Notre belle galerie est située au centre et facilement accessible.
             </p>
           </div>
           <div className="extra">
@@ -65,7 +62,7 @@ const AboutAnimation = () => {
                 </li>
                 <li>
                   <p>
-                    <span>Age:</span> 25 ans
+                    <span>Age:</span> 26 ans
                   </p>
                 </li>
                 <li>
@@ -86,14 +83,7 @@ const AboutAnimation = () => {
               </ul>
             </div>
             {/* End list */}
-            <div className="beny_tm_button color-outline">
-              <a href="img/about/cv.webp" download>
-                <span className="wrapper">
-                  <span className="first">Download CV</span>
-                  <span className="second">Download CV</span>
-                </span>
-              </a>
-            </div>
+            
           </div>
         </div>
       </div>

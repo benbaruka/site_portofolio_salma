@@ -7,7 +7,7 @@ const socialList = [
   },
   {
     name: "Facebook",
-    link: "https://www.facebook.com/",
+    link: "https://web.facebook.com/salma.baruka.5",
   },
   {
     name: "linkdin",

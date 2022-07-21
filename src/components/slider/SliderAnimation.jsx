@@ -6,6 +6,7 @@ import SocialTwo from "../SocialTwo";
 const SliderAnimation = () => {
   return (
     //    HERO
+    
     <div className="beny_tm_hero" id="home">
       <div className="background">
         <div
@@ -16,6 +17,7 @@ const SliderAnimation = () => {
             })`,
           }}
         ></div>
+        
         <div className="overlay"></div>
       </div>
       {/* End bg */}

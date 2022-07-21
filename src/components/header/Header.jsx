@@ -26,6 +26,7 @@ const Header = () => {
   return (
     <>
       {/* TOPBAR  */}
+      
       <div className={navbar ? "beny_tm_topbar animate" : "beny_tm_topbar"}>
         <div className="in">
           <div className="topbar_inner">
@@ -85,11 +86,14 @@ const Header = () => {
                   </a>
                 </li>
               </Scrollspy>
+              
             </div>
           </div>
         </div>
+        
       </div>
       {/* /TOPBAR */}
+      
 
       <div className="mobile-menu-wrapper">
         <Scrollspy
@@ -136,6 +140,7 @@ const Header = () => {
           </li>
         </Scrollspy>
       </div>
+      
       {/* End mobile-menu */}
     </>
   );

@@ -7,21 +7,12 @@ import ScrollTopBehaviour from "../components/ScrollTopBehaviour";
 const Routes = () => {
     return ( <
         >
-        <
-        Router >
-        <
-        ScrollTopBehaviour / >
-        <
-        Switch >
-        <
-        Route path = "/"
-        component = { HomeLightAnimation }
-        /> <
-        Route component = { NotFound }
-        /> <
-        /Switch> <
-        /Router> <
-        />
+        <Router >
+        <ScrollTopBehaviour / >
+        <Switch >
+        <Route path = "/"component = { HomeLightAnimation }/> 
+        <Route  component = { NotFound }/> 
+        </Switch> </Router> </>
     );
 };
 

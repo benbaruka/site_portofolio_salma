@@ -5,14 +5,14 @@ const Address = () => {
     <ul>
       <li>
         <img className="svg" src="img/svg/phone.svg" alt="" />
-        <a href="Tel: 7614123224">+243 999504845</a>
+        <a href="Tel:+243999504845">+243 (0) 999 504 845</a>
       </li>
       {/* End li */}
 
       <li>
         <img className="svg" src="img/svg/mail.svg" alt="" />
         <span>
-          <a href="mailto:ib-themes21@gmail.com">barukab68@gmail.com</a>
+          <a href="mailto:barukasalama10@gmail.com">barukasalama10@gmail.com</a>
         </span>
       </li>
       {/* End li */}
