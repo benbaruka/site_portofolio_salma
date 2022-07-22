@@ -67,7 +67,7 @@ const HomeLightAnimation = () => {
         </div>
       </div>
       {/* /SERVICES */}
-{/*le nouveux projet*/}
+{/*le nouveux projet .*/}
       {/* PORTFOLIO */}
       <div className="beny_tm_portfolio" id="portfolio">
         <div className="container">
